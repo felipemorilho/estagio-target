@@ -20,7 +20,7 @@
 
 <br>
 
-#### Os programas foram desenvolvidos na linguagem Java.
+#### Os códigos foram desenvolvidos na linguagem Java.
 
 
 
